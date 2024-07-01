@@ -35,7 +35,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["@fontsource/poppins", "npm:4.5.10"],\
             ["@ivangabriele/commitlint-config", "virtual:1c88b77d684dee6e7cfa1ad736d03c6acf1964c64834bef302f1d0a2e437b3129f77a93b54f4a71786d3039a0c25c5a3c7beda35275b5d09700fd4f87fa33ebf#npm:1.0.6"],\
             ["@ivangabriele/eslint-config-typescript-react", "virtual:1c88b77d684dee6e7cfa1ad736d03c6acf1964c64834bef302f1d0a2e437b3129f77a93b54f4a71786d3039a0c25c5a3c7beda35275b5d09700fd4f87fa33ebf#npm:5.0.0"],\
-            ["@ivangabriele/prettier-config", "virtual:1c88b77d684dee6e7cfa1ad736d03c6acf1964c64834bef302f1d0a2e437b3129f77a93b54f4a71786d3039a0c25c5a3c7beda35275b5d09700fd4f87fa33ebf#npm:3.1.0"],\
+            ["@ivangabriele/prettier-config", "virtual:1c88b77d684dee6e7cfa1ad736d03c6acf1964c64834bef302f1d0a2e437b3129f77a93b54f4a71786d3039a0c25c5a3c7beda35275b5d09700fd4f87fa33ebf#npm:5.0.1"],\
             ["@ivangabriele/semantic-release-config-dist", "npm:2.1.0"],\
             ["@rollup/plugin-commonjs", "virtual:1c88b77d684dee6e7cfa1ad736d03c6acf1964c64834bef302f1d0a2e437b3129f77a93b54f4a71786d3039a0c25c5a3c7beda35275b5d09700fd4f87fa33ebf#npm:24.0.0"],\
             ["@rollup/plugin-node-resolve", "virtual:1c88b77d684dee6e7cfa1ad736d03c6acf1964c64834bef302f1d0a2e437b3129f77a93b54f4a71786d3039a0c25c5a3c7beda35275b5d09700fd4f87fa33ebf#npm:15.0.1"],\
@@ -6045,7 +6045,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
           "packageLocation": "./.yarn/__virtual__/@ivangabriele-eslint-config-typescript-react-virtual-d1c85a3ee2/0/cache/@ivangabriele-eslint-config-typescript-react-npm-5.0.0-e5691b514a-16ed0d1d84.zip/node_modules/@ivangabriele/eslint-config-typescript-react/",\
           "packageDependencies": [\
             ["@ivangabriele/eslint-config-typescript-react", "virtual:1c88b77d684dee6e7cfa1ad736d03c6acf1964c64834bef302f1d0a2e437b3129f77a93b54f4a71786d3039a0c25c5a3c7beda35275b5d09700fd4f87fa33ebf#npm:5.0.0"],\
-            ["@ivangabriele/prettier-config", "virtual:1c88b77d684dee6e7cfa1ad736d03c6acf1964c64834bef302f1d0a2e437b3129f77a93b54f4a71786d3039a0c25c5a3c7beda35275b5d09700fd4f87fa33ebf#npm:3.1.0"],\
+            ["@ivangabriele/prettier-config", "virtual:1c88b77d684dee6e7cfa1ad736d03c6acf1964c64834bef302f1d0a2e437b3129f77a93b54f4a71786d3039a0c25c5a3c7beda35275b5d09700fd4f87fa33ebf#npm:5.0.1"],\
             ["@types/eslint", null],\
             ["@types/eslint-config-airbnb", null],\
             ["@types/eslint-config-airbnb-typescript", null],\
@@ -6128,17 +6128,17 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
         }]\
       ]],\
       ["@ivangabriele/prettier-config", [\
-        ["npm:3.1.0", {\
-          "packageLocation": "./.yarn/cache/@ivangabriele-prettier-config-npm-3.1.0-58019c0da7-9856bbe855.zip/node_modules/@ivangabriele/prettier-config/",\
+        ["npm:5.0.1", {\
+          "packageLocation": "./.yarn/cache/@ivangabriele-prettier-config-npm-5.0.1-50fbc1431d-bb3b07ea8e.zip/node_modules/@ivangabriele/prettier-config/",\
           "packageDependencies": [\
-            ["@ivangabriele/prettier-config", "npm:3.1.0"]\
+            ["@ivangabriele/prettier-config", "npm:5.0.1"]\
           ],\
           "linkType": "SOFT"\
         }],\
-        ["virtual:1c88b77d684dee6e7cfa1ad736d03c6acf1964c64834bef302f1d0a2e437b3129f77a93b54f4a71786d3039a0c25c5a3c7beda35275b5d09700fd4f87fa33ebf#npm:3.1.0", {\
-          "packageLocation": "./.yarn/__virtual__/@ivangabriele-prettier-config-virtual-012618fd23/0/cache/@ivangabriele-prettier-config-npm-3.1.0-58019c0da7-9856bbe855.zip/node_modules/@ivangabriele/prettier-config/",\
+        ["virtual:1c88b77d684dee6e7cfa1ad736d03c6acf1964c64834bef302f1d0a2e437b3129f77a93b54f4a71786d3039a0c25c5a3c7beda35275b5d09700fd4f87fa33ebf#npm:5.0.1", {\
+          "packageLocation": "./.yarn/__virtual__/@ivangabriele-prettier-config-virtual-69b09a1957/0/cache/@ivangabriele-prettier-config-npm-5.0.1-50fbc1431d-bb3b07ea8e.zip/node_modules/@ivangabriele/prettier-config/",\
           "packageDependencies": [\
-            ["@ivangabriele/prettier-config", "virtual:1c88b77d684dee6e7cfa1ad736d03c6acf1964c64834bef302f1d0a2e437b3129f77a93b54f4a71786d3039a0c25c5a3c7beda35275b5d09700fd4f87fa33ebf#npm:3.1.0"],\
+            ["@ivangabriele/prettier-config", "virtual:1c88b77d684dee6e7cfa1ad736d03c6acf1964c64834bef302f1d0a2e437b3129f77a93b54f4a71786d3039a0c25c5a3c7beda35275b5d09700fd4f87fa33ebf#npm:5.0.1"],\
             ["@types/prettier", null],\
             ["prettier", "npm:2.8.1"]\
           ],\
@@ -7827,7 +7827,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["@fontsource/poppins", "npm:4.5.10"],\
             ["@ivangabriele/commitlint-config", "virtual:1c88b77d684dee6e7cfa1ad736d03c6acf1964c64834bef302f1d0a2e437b3129f77a93b54f4a71786d3039a0c25c5a3c7beda35275b5d09700fd4f87fa33ebf#npm:1.0.6"],\
             ["@ivangabriele/eslint-config-typescript-react", "virtual:1c88b77d684dee6e7cfa1ad736d03c6acf1964c64834bef302f1d0a2e437b3129f77a93b54f4a71786d3039a0c25c5a3c7beda35275b5d09700fd4f87fa33ebf#npm:5.0.0"],\
-            ["@ivangabriele/prettier-config", "virtual:1c88b77d684dee6e7cfa1ad736d03c6acf1964c64834bef302f1d0a2e437b3129f77a93b54f4a71786d3039a0c25c5a3c7beda35275b5d09700fd4f87fa33ebf#npm:3.1.0"],\
+            ["@ivangabriele/prettier-config", "virtual:1c88b77d684dee6e7cfa1ad736d03c6acf1964c64834bef302f1d0a2e437b3129f77a93b54f4a71786d3039a0c25c5a3c7beda35275b5d09700fd4f87fa33ebf#npm:5.0.1"],\
             ["@ivangabriele/semantic-release-config-dist", "npm:2.1.0"],\
             ["@rollup/plugin-commonjs", "virtual:1c88b77d684dee6e7cfa1ad736d03c6acf1964c64834bef302f1d0a2e437b3129f77a93b54f4a71786d3039a0c25c5a3c7beda35275b5d09700fd4f87fa33ebf#npm:24.0.0"],\
             ["@rollup/plugin-node-resolve", "virtual:1c88b77d684dee6e7cfa1ad736d03c6acf1964c64834bef302f1d0a2e437b3129f77a93b54f4a71786d3039a0c25c5a3c7beda35275b5d09700fd4f87fa33ebf#npm:15.0.1"],\
