@@ -4410,7 +4410,7 @@ __metadata:
     react-select: 5.7.0
     remark-parse: 10.0.1
     remark-slate: 1.8.6
-    rollup: 3.8.1
+    rollup: 3.29.5
     rollup-plugin-peer-deps-external: 2.2.4
     rollup-plugin-postcss: 4.0.2
     rollup-plugin-sizes: 1.0.4
@@ -21277,9 +21277,9 @@ __metadata:
   languageName: node
   linkType: hard
 
-"rollup@npm:3.8.1":
-  version: 3.8.1
-  resolution: "rollup@npm:3.8.1"
+"rollup@npm:3.29.5":
+  version: 3.29.5
+  resolution: "rollup@npm:3.29.5"
   dependencies:
     fsevents: ~2.3.2
   dependenciesMeta:
@@ -21287,7 +21287,7 @@ __metadata:
       optional: true
   bin:
     rollup: dist/bin/rollup
-  checksum: 89ad4df4a5a3ba7a2ee92e2c78d3737eda357d7f8d98237d9e9b2a0b27e238e3ee247e55ea7bf167682ab6dba0ffa948c9e5a741d370e45bb22983299893914b
+  checksum: 6f8304e58ac8170a715e61e46c4aa674b2ae2587ed2a712dab58f72e5e54803ae40b485fbe6b3e6a694f4c8f7a59ab936ccf9f6b686c7cfd1f1970fa9ecadf1a
   languageName: node
   linkType: hard
 
