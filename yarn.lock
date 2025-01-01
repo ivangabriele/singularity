@@ -2902,10 +2902,10 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@fontsource/poppins@npm:4.5.10":
-  version: 4.5.10
-  resolution: "@fontsource/poppins@npm:4.5.10"
-  checksum: 873ea31740a9819cbc39bf5895159101e87674e3c9da03629b6331e7752b657f3704cd1c6ae81ac9af2f5aa4a9d85847eae8015c926bb48e1f7a5bbacfeca8ee
+"@fontsource/poppins@npm:5.1.1":
+  version: 5.1.1
+  resolution: "@fontsource/poppins@npm:5.1.1"
+  checksum: 29657c9c629c7e6e6ca7d8d4c884f1693d4555fd55f23a42a14317d623029bb9579f4d7e471a5090df2eba552e9be0cdf4788c6b3e0459e680bfa95a0c54cdc7
   languageName: node
   linkType: hard
 
@@ -4351,7 +4351,7 @@ __metadata:
     "@babel/preset-react": 7.18.6
     "@commitlint/cli": 17.3.0
     "@commitlint/config-conventional": 17.3.0
-    "@fontsource/poppins": 4.5.10
+    "@fontsource/poppins": 5.1.1
     "@ivangabriele/commitlint-config": 1.0.6
     "@ivangabriele/eslint-config-typescript-react": 5.0.0
     "@ivangabriele/prettier-config": 3.1.0
